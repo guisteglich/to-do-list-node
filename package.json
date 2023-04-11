@@ -1,0 +1,14 @@
+{
+  "name": "to-do-list-node",
+  "version": "1.0.0",
+  "description": "Projeto node e mvc",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Guilherme S. de Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
